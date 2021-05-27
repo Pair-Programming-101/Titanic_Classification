@@ -60,14 +60,14 @@ The goal is to predict if a Titanic passenger (from a test data set) survives th
 
 We have split the project into three sub-parts:
 
-## 1. EDA (Exploratory Data Analysis)
+1. **EDA (Exploratory Data Analysis)**
 
 EDA is the phase in which we study the data available, review it's quality, perform univariate, bi-variate and multi-variate analysis on the data to study the relationships, variance and skewness in the data. The idea is to analyze the data to prepare for the next stage which is going to be model building.
 
-## 2. Model Building
+2. **Model Building**
 
 Because this is an academic project to practice and learn - we will start with the simplest model - Logistic Regression and then expand into other kind of models like decision tress and random forests. Towards the end we will use the same data to build ensemble models using Bagging & Boosting techniques. We will publish the results of various models for comparisons to able to make the decision for the next step which is deploying the model to make predictions. We will be selecting the best performing model for the next stage.
 
-## 3. Deployment
+3. **Deployment**
 
 The final stage of the project would be to deploy the model and create a website for taking bookings for a fictional Titanic trip, while making the booking for the expedition people would be asked a set of questions - these answers would be then fed into the model to predict whether the passanger making the booking would survive in case the ship met with a disaster 😁.
